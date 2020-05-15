@@ -19,7 +19,7 @@
 
 	<properties>
 		<!-- versions -->
-		<sonar.host.url>http://18.224.53.209:9000/</sonar.host.url>
+		<sonar.host.url>http://18.218.137.35:9000/</sonar.host.url>
 		<sonar.login>raghuram</sonar.login>
 		<sonar.password>Happy123</sonar.password>
 		<spring.version>5.0.7.RELEASE</spring.version>
@@ -104,12 +104,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://18.216.182.33:8081/repository/csrapplication-releases/</url>
+	      <url>http://18.216.244.179:8081/repository/csrapplication-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://18.216.182.33:8081/repository/csrapplication-snapshot/</url>
+	      <url>http://18.216.244.179:8081/repository/csrapplication-snapshot/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
