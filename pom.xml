@@ -19,7 +19,7 @@
 
 	<properties>
 		<!-- versions -->
-		<sonar.host.url>http://18.221.3.195:9000/</sonar.host.url>
+		<sonar.host.url>http://13.126.208.226:9000/</sonar.host.url>
 		<sonar.login>raghuram</sonar.login>
 		<sonar.password>Happy123</sonar.password>
 		<spring.version>5.0.7.RELEASE</spring.version>
